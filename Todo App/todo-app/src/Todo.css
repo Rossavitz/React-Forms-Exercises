@@ -1,0 +1,9 @@
+.Todo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Todo-task{
+    margin: 3px;
+}
